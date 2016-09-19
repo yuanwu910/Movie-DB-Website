@@ -20,4 +20,9 @@ ActorInfo.php : A page that shows actor information.the links to the movies that
 MovieInfo.php : A page that shows movie information. links to the actors/actresses that were in this movie, the average score of the movie based on user feedbacks, all user comments and a ”Add Comment" button which links to addComment.php where users can add comments are all included.
 
 One search page:
-Search.php : A page that lets users search for an actor/actress/movie through a keyword search interface. As for the output, I sort them in two table that you could find an item easily.
+Search.php : A blank-space that lets users search for an actor/actress/movie through a keyword search interface. As for the output, I sort them in two table that you could find an item easily.
+
+Home.php: It is the main page of my web side. It is not tough to operate my web system. all the functions and links to them are listed on the sidebar. And all the rendering results will be displayed in this page.
+
+Index.php: It is the sidebar of the whole page. 
+
