@@ -9,9 +9,9 @@ addMovie.php : A page that lets users to add movie information including movieGe
 
 addComment.php: A page that lets users to add comments to movies. This page is fixed to one movie ID, thus, if u want to add comment to a movie as you choose, u should choose it on the navComment.php and will automatically jump to the right comment-add page.
 
-addMA.php: A page that lets users to add "actor to movie" relation(s).
+addMoA.php: A page that lets users to add "actor to movie" relation(s).
 
-addMD.php: A page that lets users to add "director to movie" relation(s).
+addMoD.php: A page that lets users to add "director to movie" relation(s).
 
 Two browsing pages:
 
